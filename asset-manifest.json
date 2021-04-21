@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/okr-app/static/css/main.ebb109e2.chunk.css",
+    "main.js": "/okr-app/static/js/main.79ceb8a7.chunk.js",
+    "main.js.map": "/okr-app/static/js/main.79ceb8a7.chunk.js.map",
+    "runtime-main.js": "/okr-app/static/js/runtime-main.70d0a6c0.js",
+    "runtime-main.js.map": "/okr-app/static/js/runtime-main.70d0a6c0.js.map",
+    "static/js/2.6f4ae8a9.chunk.js": "/okr-app/static/js/2.6f4ae8a9.chunk.js",
+    "static/js/2.6f4ae8a9.chunk.js.map": "/okr-app/static/js/2.6f4ae8a9.chunk.js.map",
+    "index.html": "/okr-app/index.html",
+    "static/css/main.ebb109e2.chunk.css.map": "/okr-app/static/css/main.ebb109e2.chunk.css.map",
+    "static/js/2.6f4ae8a9.chunk.js.LICENSE.txt": "/okr-app/static/js/2.6f4ae8a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d0a6c0.js",
+    "static/js/2.6f4ae8a9.chunk.js",
+    "static/css/main.ebb109e2.chunk.css",
+    "static/js/main.79ceb8a7.chunk.js"
+  ]
+}
